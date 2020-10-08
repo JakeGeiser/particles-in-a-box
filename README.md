@@ -13,10 +13,10 @@ Particles are given a small kick in velocity and the particles then settle into 
 
 After running for 20 seconds the form can be seen below.
 
-![](images/part3_start 0.png)
+![](images/part3_start.png)
 
 ## Part3 - Temperature of the System is Increased over Time
-![](images/part3_start.gif
+![](images/part3_start.gif)
 
 The above gif is at the start of the heating process. Slowly as temperature in increased the particles begin to move more.
 
