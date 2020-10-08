@@ -11,7 +11,7 @@ You can see the particles bounce around due to the forces from the Lennard-Jones
 
 Particles are given a small kick in velocity and the particles then settle into a new formation where the partcles appear to be the vertices of a rhombus. 
 
-After running for 20 seconds the form can be seen below.
+After running for 20 seconds the form can be seen below.(not real time, but in the simulation. This took minutes IRL to get to)
 
 ![](images/part3_start.png)
 
