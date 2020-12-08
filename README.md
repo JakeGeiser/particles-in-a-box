@@ -30,7 +30,7 @@ The above gif is at the start of the heating process. Slowly as temperature in i
 
 ![](images/part3_transition.gif)
 
-The above gif shows that eventually, the particles loose structure due to the energy in the system. This is representative of the matter undergoing a phase change. Refer to the analysis.pdf in part 3 for more on this.
+The above gif shows that eventually, the particles loose structure due to the energy in the system. This is representative of the matter undergoing a phase change. Again, refer to the analysis.pdf in part 3 for more on this.
 
 ## Contact Me
 Email: git@jakegeiser.us
